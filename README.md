@@ -1,7 +1,1 @@
-- Hi, I’m @6mrs37
-- I'm learning HTML/CSS/JavaScript
-
-<!---
-6mrs37/6mrs37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Maya Smith. I love math, and my favorite part of math is whatever I happen to have last learned about. Apart from STEM, I love to debate and am a regular participant in my school's theater productions. The languages I know best are English, Russian, Python, and Spanish, in that order.
